@@ -1,0 +1,6 @@
+jupyterlab
+requests
+numpy
+matplotlib
+opencv-python-headless
+trimesh
